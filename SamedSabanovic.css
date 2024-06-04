@@ -1,0 +1,58 @@
+body{
+    background-color:black;
+    color:#666633;
+    font-family:arial,sans-serif;
+    margin:0;
+    padding:0;
+}
+.naslov {
+    text-align:center;
+    font-weight:bold;
+    font-size:36px;
+    color:white;
+}
+a:link{
+    font-size:14px;
+    text-decoration:none;
+}
+a:hover{
+    font-size:16px;
+    color:#CC0000;
+}
+.podnaslov {
+    font-size:24px;
+    font-style:italic;
+    text-decoration:underline;
+    font-weight:bold;
+    color:white;
+}
+.normal{
+    text-align:justify;
+    color:white;
+}
+#banner {
+    width:100%;
+}
+#aside {
+    float:left;
+    color:white;
+}
+
+#point {
+    font-size:36px;
+    align-items:center;
+}
+#CVNaslov {
+    float:middle;
+}
+#cvtekst{
+    font-size:24px;
+    font-weight:bold;
+    color:white;
+}
+#h3galerija{
+    text-align:center;
+    color:white;
+}
+
+

@@ -1,0 +1,32 @@
+body{
+    background-color:#DEDECA;
+    color:#666633;
+}
+.naslov {
+    text-align:center;
+    font-weight:bold;
+    font-size:36px;
+}
+a:link{
+    font-size:14px;
+    text-decoration:none;
+}
+a:hover{
+    font-size:16px;
+    color:#CC0000;
+}
+.podnaslov {
+    font-size:24px;
+    font-style:italic;
+    text-decoration:underline;
+    font-weight:bold;
+}
+.normal{
+    text-align:justify;
+}
+#banner {
+    width:100%;
+}
+#aside {
+    float:left;
+}
